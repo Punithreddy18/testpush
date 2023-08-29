@@ -1,5 +1,10 @@
 git stash for another file
 git stash testing
 git stash test
+<<<<<<< Updated upstream
 this is stash line 
 for testing 
+=======
+another user stash
+using the same code
+>>>>>>> Stashed changes
